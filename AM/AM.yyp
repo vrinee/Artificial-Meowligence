@@ -35,11 +35,13 @@
   "name":"AM",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Combate_WIP","path":"rooms/Combate_WIP/Combate_WIP.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Combate_WIP","path":"rooms/Combate_WIP/Combate_WIP.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
