@@ -34,8 +34,10 @@
   },
   "name":"AM",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Game_controller","path":"objects/Game_controller/Game_controller.yy",},},
     {"id":{"name":"Combate_WIP","path":"rooms/Combate_WIP/Combate_WIP.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
