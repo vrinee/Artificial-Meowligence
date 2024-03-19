@@ -25,3 +25,8 @@ else{
 	display_set_gui_maximize(-1,-1)
 }
 
+
+if (keyboard_check_released(vk_enter)){
+	room_goto(Combate_WIP)
+	}
+
