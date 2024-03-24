@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Enemy_placeholder_CMBT",
-  "eventList":[],
+  "%Name":"obj_defense_btn",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Enemy_placeholder_CMBT",
+  "name":"obj_defense_btn",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite2",
-    "path":"sprites/Sprite2/Sprite2.yy",
+    "name":"spr_button_placeholder",
+    "path":"sprites/spr_button_placeholder/spr_button_placeholder.yy",
   },
   "spriteMaskId":null,
   "visible":true,

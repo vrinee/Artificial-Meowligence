@@ -1,1 +1,9 @@
-global.enemy_index = enemy_placeholder
+global.enemy_index = 0
+global.player_max_hp = 100
+global.player_hp = global.player_max_hp
+global.player_damage = 20
+global.player_damage_mult = 1
+global.player_defense = 20
+global.player_defense_mult = 1
+global.player_active_defense = 0
+global.turn = 1
