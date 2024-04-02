@@ -4,3 +4,6 @@ if global.turn {
 	global.enemy_active_defense = 0
 	global.turn = 0
 }
+
+
+image_index = 0

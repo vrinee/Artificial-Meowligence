@@ -6,3 +6,5 @@ if global.turn = true {
 	global.turn = 0
 	global.enemy_active_defense = 0
 }
+
+image_index = 0
