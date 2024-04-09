@@ -30,3 +30,6 @@ if (keyboard_check_released(vk_enter)){
 	room_goto(Combate_WIP)
 	}
 
+if (keyboard_check_released(vk_divide)){
+	room_goto(level01)
+	}
