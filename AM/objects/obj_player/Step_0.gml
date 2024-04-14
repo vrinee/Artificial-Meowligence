@@ -49,3 +49,24 @@ if(place_meeting(x,y+velv,obj_npc01)) {
 
 
 y = y + velv;
+
+// animações do player
+
+if(velh != 0 or velv != 0) {
+	movendo = 1
+} else {
+	movendo = 0
+}
+
+if (direita) {
+	image_xscale = -1
+	lado = 2
+}
+if (esquerda) {
+	image_xscale = 1
+	lado = 3
+}
+if (baixo) lado = 0
+if (subir) lado = 1
+
+sprite_index = sprite[movendo][lado]
