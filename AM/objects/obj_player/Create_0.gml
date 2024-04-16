@@ -1,6 +1,7 @@
 velh = 0;
 velv = 0;
 dir = 0;
+<<<<<<< HEAD
 velc = 4;
 
 //declarando matriz de sprite
@@ -17,3 +18,6 @@ sprite[1][3] = spr_player_walkingside
 
 movendo = 0
 lado = 0
+=======
+velc = 5;
+>>>>>>> 7d527a6f8c443b3f1c58f33a237a9ea46d5b323c
