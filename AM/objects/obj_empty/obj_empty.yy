@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_heal",
+  "%Name":"obj_empty",
   "eventList":[],
   "managed":true,
-  "name":"obj_heal",
+  "name":"obj_empty",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_heal",
-    "path":"sprites/spr_heal/spr_heal.yy",
+    "name":"empty",
+    "path":"sprites/empty/empty.yy",
   },
   "spriteMaskId":null,
   "visible":true,

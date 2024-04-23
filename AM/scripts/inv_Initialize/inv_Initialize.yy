@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"inv_Initialize",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"inv_Initialize",
+  "parent":{
+    "name":"iventario",
+    "path":"folders/Scripts/iventario.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
