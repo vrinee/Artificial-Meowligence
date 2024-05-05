@@ -13,3 +13,37 @@ global.enemy_attack = 20
 global.enemy_defense = 20
 global.enemy_active_defense = 0
 global.enemy = "placeholder"
+
+global.Enemy = function() constructor{
+name = "Default"
+max_hp = 100
+sprite_index = spr_enemy_placeholder
+atack = 10
+defense = 7
+
+static SetName = function(_value) {
+      name = _value;
+      return self;
+   }
+   
+static SetMaxHp = function(_value) {
+      max_hp = _value;
+      return self;
+   }
+   
+static SetSprite = function(_value) {
+      sprite_index = _value;
+      return self;
+   }
+   
+static SetAttack = function(_value) {
+      atack = _value;
+      return self;
+   }
+   
+static SetDefense = function(_value) {
+      defense = _value;
+      return self;
+   }
+}
+
