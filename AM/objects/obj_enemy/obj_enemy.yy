@@ -31,10 +31,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_enemy_placeholder",
-    "path":"sprites/spr_enemy_placeholder/spr_enemy_placeholder.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
