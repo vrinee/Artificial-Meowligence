@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"itens",
-    "path":"folders/Sprites/itens.yy",
+    "path":"folders/Sprites/inventario/itens.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

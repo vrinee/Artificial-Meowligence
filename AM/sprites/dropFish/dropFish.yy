@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"dropados",
-    "path":"folders/Sprites/dropados.yy",
+    "path":"folders/Sprites/inventario/dropados.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
