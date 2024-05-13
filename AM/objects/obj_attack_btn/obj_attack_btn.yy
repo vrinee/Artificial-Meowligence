@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_button_placeholder",
-    "path":"sprites/spr_button_placeholder/spr_button_placeholder.yy",
+    "name":"spr_button_atck",
+    "path":"sprites/spr_button_atck/spr_button_atck.yy",
   },
   "spriteMaskId":null,
   "visible":true,

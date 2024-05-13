@@ -46,6 +46,7 @@
     {"name":"invHeal","order":1,"path":"sprites/invHeal/invHeal.yy",},
     {"name":"spr_bg02","order":1,"path":"sprites/spr_bg02/spr_bg02.yy",},
     {"name":"spr_blackcat","order":2,"path":"sprites/spr_blackcat/spr_blackcat.yy",},
+    {"name":"spr_button_defense","order":3,"path":"sprites/spr_button_defense/spr_button_defense.yy",},
     {"name":"spr_cmbt_player_placeholder","order":1,"path":"sprites/spr_cmbt_player_placeholder/spr_cmbt_player_placeholder.yy",},
     {"name":"spr_microorangecat","order":4,"path":"sprites/spr_microorangecat/spr_microorangecat.yy",},
     {"name":"spr_nina","order":1,"path":"sprites/spr_nina/spr_nina.yy",},
@@ -59,5 +60,6 @@
     {"name":"spr_sidebars_placeholder","order":2,"path":"sprites/spr_sidebars_placeholder/spr_sidebars_placeholder.yy",},
     {"name":"spr_tuxedocatintuxedo","order":3,"path":"sprites/spr_tuxedocatintuxedo/spr_tuxedocatintuxedo.yy",},
     {"name":"spr_wall","order":4,"path":"sprites/spr_wall/spr_wall.yy",},
+    {"name":"Sprite26","order":4,"path":"sprites/Sprite26/Sprite26.yy",},
   ],
 }
