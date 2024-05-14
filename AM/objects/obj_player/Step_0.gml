@@ -13,8 +13,8 @@ velv = lengthdir_y(velc * tecla,dir);
 
 
 // colisão parede \\
-if(place_meeting(x+velh,y,obj_collision)) {
-    while(!place_meeting(x+sign(velh),y,obj_collision)) {
+if(place_meeting(x+velh,y,obj_wall)) {
+    while(!place_meeting(x+sign(velh),y,obj_wall)) {
         x = x + sign(velh);
     }
     velh = 0;
@@ -22,8 +22,8 @@ if(place_meeting(x+velh,y,obj_collision)) {
 
 // colisão npc \\
 
-if(place_meeting(x+velh,y,obj_collision)) {
-    while(!place_meeting(x+sign(velh),y,obj_collision)) {
+if(place_meeting(x+velh,y,obj_npc01)) {
+    while(!place_meeting(x+sign(velh),y,obj_npc01)) {
         x = x + sign(velh);
     }
     velh = 0;
@@ -33,15 +33,15 @@ x = x + velh;
 
 
 
-if(place_meeting(x,y+velv,obj_collision)) {
-    while(!place_meeting(x,y+sign(velv),obj_collision)) {
+if(place_meeting(x,y+velv,obj_wall)) {
+    while(!place_meeting(x,y+sign(velv),obj_wall)) {
         y = y + sign(velv);
     }
     velv = 0;
 }
 
-if(place_meeting(x,y+velv,obj_collision)) {
-    while(!place_meeting(x,y+sign(velv),obj_collision)) {
+if(place_meeting(x,y+velv,obj_npc01)) {
+    while(!place_meeting(x,y+sign(velv),obj_npc01)) {
         y = y + sign(velv);
     }
     velv = 0;
@@ -49,8 +49,6 @@ if(place_meeting(x,y+velv,obj_collision)) {
 
 
 y = y + velv;
-
-
 
 // animações do player
 
