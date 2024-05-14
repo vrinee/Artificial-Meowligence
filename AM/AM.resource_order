@@ -41,6 +41,7 @@
     {"name":"Combate_WIP","order":1,"path":"rooms/Combate_WIP/Combate_WIP.yy",},
     {"name":"level01","order":2,"path":"rooms/level01/level01.yy",},
     {"name":"level02","order":3,"path":"rooms/level02/level02.yy",},
+    {"name":"background_combat","order":4,"path":"sprites/background_combat/background_combat.yy",},
     {"name":"dropHeal","order":1,"path":"sprites/dropHeal/dropHeal.yy",},
     {"name":"empty","order":2,"path":"sprites/empty/empty.yy",},
     {"name":"invHeal","order":1,"path":"sprites/invHeal/invHeal.yy",},
@@ -60,6 +61,5 @@
     {"name":"spr_sidebars_placeholder","order":2,"path":"sprites/spr_sidebars_placeholder/spr_sidebars_placeholder.yy",},
     {"name":"spr_tuxedocatintuxedo","order":3,"path":"sprites/spr_tuxedocatintuxedo/spr_tuxedocatintuxedo.yy",},
     {"name":"spr_wall","order":4,"path":"sprites/spr_wall/spr_wall.yy",},
-    {"name":"Sprite26","order":4,"path":"sprites/Sprite26/Sprite26.yy",},
   ],
 }
