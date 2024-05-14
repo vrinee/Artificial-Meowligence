@@ -17,7 +17,7 @@ global.enemy = "placeholder"
 global.Enemy = function() constructor{
 name = "Default"
 max_hp = 100
-sprite_index = spr_enemy_placeholder
+sprite_index = spr_cmbt_enemy_placeholder
 atack = 10
 defense = 7
 

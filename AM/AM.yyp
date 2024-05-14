@@ -72,7 +72,7 @@
     {"id":{"name":"spr_blackcat","path":"sprites/spr_blackcat/spr_blackcat.yy",},},
     {"id":{"name":"spr_button_atck","path":"sprites/spr_button_atck/spr_button_atck.yy",},},
     {"id":{"name":"spr_button_defense","path":"sprites/spr_button_defense/spr_button_defense.yy",},},
-    {"id":{"name":"spr_cmbt_player_placeholder","path":"sprites/spr_cmbt_player_placeholder/spr_cmbt_player_placeholder.yy",},},
+    {"id":{"name":"spr_cmbt_enemy_placeholder","path":"sprites/spr_cmbt_enemy_placeholder/spr_cmbt_enemy_placeholder.yy",},},
     {"id":{"name":"spr_cryingcat","path":"sprites/spr_cryingcat/spr_cryingcat.yy",},},
     {"id":{"name":"spr_microorangecat","path":"sprites/spr_microorangecat/spr_microorangecat.yy",},},
     {"id":{"name":"spr_nina","path":"sprites/spr_nina/spr_nina.yy",},},
