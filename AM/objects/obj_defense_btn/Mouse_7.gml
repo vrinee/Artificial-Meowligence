@@ -6,4 +6,4 @@ if global.turn {
 }
 
 
-image_index = 0
+image_index = 3

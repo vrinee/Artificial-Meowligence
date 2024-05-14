@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_cmbt_player_placeholder",
-    "path":"sprites/spr_cmbt_player_placeholder/spr_cmbt_player_placeholder.yy",
+    "name":"spr_player_standing_frt",
+    "path":"sprites/spr_player_standing_frt/spr_player_standing_frt.yy",
   },
   "spriteMaskId":null,
   "visible":true,
