@@ -39,13 +39,17 @@
     {"name":"level02","order":3,"path":"rooms/level02/level02.yy",},
     {"name":"background_combat","order":4,"path":"sprites/background_combat/background_combat.yy",},
     {"name":"spr_bg02","order":1,"path":"sprites/spr_bg02/spr_bg02.yy",},
-    {"name":"spr_blackcat","order":2,"path":"sprites/spr_blackcat/spr_blackcat.yy",},
+    {"name":"spr_blackcat","order":4,"path":"sprites/spr_blackcat/spr_blackcat.yy",},
     {"name":"spr_button_defense","order":3,"path":"sprites/spr_button_defense/spr_button_defense.yy",},
     {"name":"spr_cmbt_player_placeholder","order":1,"path":"sprites/spr_cmbt_player_placeholder/spr_cmbt_player_placeholder.yy",},
+<<<<<<< Updated upstream
     {"name":"spr_lifebar_heart","order":7,"path":"sprites/spr_lifebar_heart/spr_lifebar_heart.yy",},
     {"name":"spr_lifebar_session","order":6,"path":"sprites/spr_lifebar_session/spr_lifebar_session.yy",},
     {"name":"spr_lifebar","order":5,"path":"sprites/spr_lifebar/spr_lifebar.yy",},
     {"name":"spr_microorangecat","order":4,"path":"sprites/spr_microorangecat/spr_microorangecat.yy",},
+=======
+    {"name":"spr_microorangecat","order":3,"path":"sprites/spr_microorangecat/spr_microorangecat.yy",},
+>>>>>>> Stashed changes
     {"name":"spr_nina","order":1,"path":"sprites/spr_nina/spr_nina.yy",},
     {"name":"spr_npc01","order":2,"path":"sprites/spr_npc01/spr_npc01.yy",},
     {"name":"spr_npc02","order":3,"path":"sprites/spr_npc02/spr_npc02.yy",},
@@ -55,7 +59,7 @@
     {"name":"spr_player_walkingbehind","order":1,"path":"sprites/spr_player_walkingbehind/spr_player_walkingbehind.yy",},
     {"name":"spr_player_walkingside","order":2,"path":"sprites/spr_player_walkingside/spr_player_walkingside.yy",},
     {"name":"spr_sidebars_placeholder","order":2,"path":"sprites/spr_sidebars_placeholder/spr_sidebars_placeholder.yy",},
-    {"name":"spr_tuxedocatintuxedo","order":3,"path":"sprites/spr_tuxedocatintuxedo/spr_tuxedocatintuxedo.yy",},
+    {"name":"spr_tuxedocatintuxedo","order":2,"path":"sprites/spr_tuxedocatintuxedo/spr_tuxedocatintuxedo.yy",},
     {"name":"spr_wall","order":4,"path":"sprites/spr_wall/spr_wall.yy",},
   ],
 }
