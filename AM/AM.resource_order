@@ -33,6 +33,7 @@
     {"name":"obj_wall","order":9,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"oDialogParent","order":19,"path":"objects/oDialogParent/oDialogParent.yy",},
     {"name":"oDialogSampleA","order":20,"path":"objects/oDialogSampleA/oDialogSampleA.yy",},
+    {"name":"obj_enemy","order":2,"path":"objects/obj_enemy/obj_enemy.yy",},    
     {"name":"Startup_entity","order":1,"path":"objects/Startup_entity/Startup_entity.yy",},
     {"name":"Combate_WIP","order":1,"path":"rooms/Combate_WIP/Combate_WIP.yy",},
     {"name":"level01","order":2,"path":"rooms/level01/level01.yy",},
