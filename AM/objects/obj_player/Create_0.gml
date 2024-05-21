@@ -3,7 +3,7 @@ velv = 0;
 dir = 0;
 velc = 3;
 
-//declarando maatriz de sprite
+//declarando matriz de sprite
 
 sprite[0][0] = spr_player_standing_frt
 sprite[0][1] = spr_player_standing_bhd
