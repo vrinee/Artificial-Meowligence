@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 
 enum enemy_types {
 	Placeholder,
@@ -14,4 +12,3 @@ var placeholder_data = global.enemies[enemy_types.Placeholder]
 instance_create_layer(310,30,"Instances",obj_enemy,placeholder_data)
 
 global.fight_state = 0
->>>>>>> Stashed changes

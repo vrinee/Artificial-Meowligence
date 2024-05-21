@@ -27,8 +27,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"brian",
-    "path":"folders/Sprites/brian.yy",
+    "name":"npcs",
+    "path":"folders/Sprites/npcs.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -7,8 +7,6 @@ global.player_defense = 20
 global.player_defense_mult = 1
 global.player_active_defense = 0
 global.turn = 1
-<<<<<<< Updated upstream
-=======
 global.enemy_max_hp = 100
 global.enemy_hp = 100
 global.enemy_attack = 20
@@ -49,4 +47,3 @@ static SetDefense = function(_value) {
    }
 }
 
->>>>>>> Stashed changes
