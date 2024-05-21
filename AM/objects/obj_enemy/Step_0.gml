@@ -10,6 +10,5 @@ if global.turn = false {
 	else
 		global.pattern_index = 0
 	global.turn = 1
-//oi
 
 }
