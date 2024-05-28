@@ -38,6 +38,7 @@
     {"name":"Combate_WIP","order":1,"path":"rooms/Combate_WIP/Combate_WIP.yy",},
     {"name":"level01","order":2,"path":"rooms/level01/level01.yy",},
     {"name":"level02","order":3,"path":"rooms/level02/level02.yy",},
+    {"name":"level03","order":4,"path":"rooms/level03/level03.yy",},
     {"name":"background_combat","order":4,"path":"sprites/background_combat/background_combat.yy",},
     {"name":"spr_bg02","order":1,"path":"sprites/spr_bg02/spr_bg02.yy",},
     {"name":"spr_blackcat","order":2,"path":"sprites/spr_blackcat/spr_blackcat.yy",},
