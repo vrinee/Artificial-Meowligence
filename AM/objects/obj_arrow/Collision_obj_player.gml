@@ -1,7 +1,7 @@
-if(next_room(room) =! -1) {
+if(room_next(room) != -1) {
 	room_goto_next();
 }
 
 else {
-	room_goto(level01);
+	room_goto(leve01);
 }

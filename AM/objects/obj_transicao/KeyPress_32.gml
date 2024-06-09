@@ -3,5 +3,5 @@ if(room_next(room) != -1) {
 }
 
 else {
-	room_goto(rm1);
+	room_goto(leve01);
 }
