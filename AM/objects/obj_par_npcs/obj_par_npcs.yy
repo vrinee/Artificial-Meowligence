@@ -1,13 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oDialogParent",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_par_npcs",
+  "eventList":[],
   "managed":true,
-  "name":"oDialogParent",
+  "name":"obj_par_npcs",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
