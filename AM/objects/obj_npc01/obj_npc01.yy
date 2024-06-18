@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_npc01",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_npc01",
   "overriddenProperties":[],
@@ -10,8 +12,8 @@
     "path":"folders/Objects.yy",
   },
   "parentObjectId":{
-    "name":"obj_collision",
-    "path":"objects/obj_collision/obj_collision.yy",
+    "name":"obj_par_npcs",
+    "path":"objects/obj_par_npcs/obj_par_npcs.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -29,10 +31,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"spr_npc01",
-    "path":"sprites/spr_npc01/spr_npc01.yy",
+    "name":"spr_microorangecat",
+    "path":"sprites/spr_microorangecat/spr_microorangecat.yy",
   },
   "spriteMaskId":null,
   "visible":true,
