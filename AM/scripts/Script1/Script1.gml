@@ -12,6 +12,31 @@ function scr_textos(){
 			texto[2] = "Se vc ta lendo isso é pq eu escrevi"
 			texto[3] = "Oiioioioioio tudo bem com vc aiiiiiiiii?"
 		break;
-			
+		
+		case "Enemy":
+			if(global.enemys_won[0][1] == 1){
+				texto[0] = "Tu me ganhou D:"
+				break;
+			}
+			global.enemy_name = "placeholder"
+			global.player_x = obj_player.x
+			global.player_y = obj_player.y
+			global.Croom = room 
+			room_goto(Combate_WIP)
+		break;
+		case "Passar":
+			if(room_next(room) != -1) {
+				switch room_next(room){
+					case 3://level 02
+						global.player_x = 1756
+						global.player_y = 154
+						break
+					case 4://level 03
+						global.player_x = 160
+						global.player_y = 928
+						break
+				}
+				room_goto_next();
+			}
 	}
 }

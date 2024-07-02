@@ -29,6 +29,7 @@
     {"name":"obj_collision","order":24,"path":"objects/obj_collision/obj_collision.yy",},
     {"name":"obj_defense_btn","order":6,"path":"objects/obj_defense_btn/obj_defense_btn.yy",},
     {"name":"obj_dialogo","order":28,"path":"objects/obj_dialogo/obj_dialogo.yy",},
+    {"name":"obj_enemy_guy","order":29,"path":"objects/obj_enemy_guy/obj_enemy_guy.yy",},
     {"name":"obj_enemy","order":21,"path":"objects/obj_enemy/obj_enemy.yy",},
     {"name":"obj_npc01","order":8,"path":"objects/obj_npc01/obj_npc01.yy",},
     {"name":"obj_npc02","order":27,"path":"objects/obj_npc02/obj_npc02.yy",},
