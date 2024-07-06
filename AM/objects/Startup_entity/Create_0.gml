@@ -19,6 +19,7 @@ global.Croom = rm1
 global.enemys_won = [
 	["placeholder",0]
 ]
+global.dmg = 0
 
 global.Enemy = function() constructor{
 name = "Default"
@@ -26,7 +27,6 @@ max_hp = 100
 sprite_index = spr_cmbt_enemy_placeholder
 atack = 20
 defense = 10
-won = 0
 
 static SetName = function(_value) {
       name = _value;
@@ -53,10 +53,6 @@ static SetDefense = function(_value) {
       return self;
    }
    
-static SetWon = function() {
-	  won = 1;
-	  return self;
-	}
 }
 
 global.enemies[enemy_types.Placeholder] = new global.Enemy()

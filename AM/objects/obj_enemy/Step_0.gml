@@ -1,6 +1,7 @@
 if global.turn = false {
 	if global.enemy_pattern[global.pattern_index] = false{
 		enemy_attack()
+		
 	}else{
 		enemy_defend()
 	}
