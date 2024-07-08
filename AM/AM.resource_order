@@ -44,7 +44,6 @@
     {"name":"level02","order":3,"path":"rooms/level02/level02.yy",},
     {"name":"level03","order":4,"path":"rooms/level03/level03.yy",},
     {"name":"background_combat","order":4,"path":"sprites/background_combat/background_combat.yy",},
-    {"name":"bg_lanhouse_objetos","order":1,"path":"sprites/bg_lanhouse_objetos/bg_lanhouse_objetos.yy",},
     {"name":"spr_arrow","order":11,"path":"sprites/spr_arrow/spr_arrow.yy",},
     {"name":"spr_bg02","order":1,"path":"sprites/spr_bg02/spr_bg02.yy",},
     {"name":"spr_bg03","order":5,"path":"sprites/spr_bg03/spr_bg03.yy",},
