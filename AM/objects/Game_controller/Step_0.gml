@@ -33,10 +33,15 @@ if (keyboard_check_released(vk_enter)){
 if (keyboard_check_released(vk_divide)){
 	room_goto(level01)
 	}
-	
-	
+
+if (room != Combate_WIP){
+	draw_set_halign(fa_left)
+	draw_set_valign(fa_top)
+}
 // Dialogo //
 
 if instance_exists(obj_dialogo) {
 	global.dialog = true;
 }
+
+
