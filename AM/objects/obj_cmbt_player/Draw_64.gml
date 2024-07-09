@@ -1,1 +1,0 @@
-draw_text(10,10,string(global.player_hp) + "/" + string(global.player_max_hp))
