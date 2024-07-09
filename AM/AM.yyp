@@ -24,6 +24,8 @@
     {"$GMFolder":"","%Name":"Sounds","folderPath":"folders/Sounds.yy","name":"Sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"brian","folderPath":"folders/Sprites/brian.yy","name":"brian","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"cenarios","folderPath":"folders/Sprites/cenarios.yy","name":"cenarios","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"enemys","folderPath":"folders/Sprites/enemys.yy","name":"enemys","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"level1","folderPath":"folders/Sprites/level1.yy","name":"level1","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"npcs","folderPath":"folders/Sprites/npcs.yy","name":"npcs","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Player","folderPath":"folders/Sprites/Player.yy","name":"Player","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -34,7 +36,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.6.0.157",
   },
   "name":"AM",
   "resources":[
@@ -75,6 +77,9 @@
     {"id":{"name":"spr_cryingcat","path":"sprites/spr_cryingcat/spr_cryingcat.yy",},},
     {"id":{"name":"spr_lifebar_bg","path":"sprites/spr_lifebar_bg/spr_lifebar_bg.yy",},},
     {"id":{"name":"spr_lifebar_circuit","path":"sprites/spr_lifebar_circuit/spr_lifebar_circuit.yy",},},
+    {"id":{"name":"spr_enemy_one","path":"sprites/spr_enemy_one/spr_enemy_one.yy",},},
+    {"id":{"name":"spr_enemy_three","path":"sprites/spr_enemy_three/spr_enemy_three.yy",},},
+    {"id":{"name":"spr_enemy_two","path":"sprites/spr_enemy_two/spr_enemy_two.yy",},},
     {"id":{"name":"spr_lifebar_heart","path":"sprites/spr_lifebar_heart/spr_lifebar_heart.yy",},},
     {"id":{"name":"spr_lifebar_session_enemy","path":"sprites/spr_lifebar_session_enemy/spr_lifebar_session_enemy.yy",},},
     {"id":{"name":"spr_lifebar_session","path":"sprites/spr_lifebar_session/spr_lifebar_session.yy",},},
