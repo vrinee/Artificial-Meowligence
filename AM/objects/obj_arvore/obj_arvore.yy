@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall",
+  "%Name":"obj_arvore",
   "eventList":[],
   "managed":true,
-  "name":"obj_wall",
+  "name":"obj_arvore",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_wall",
-    "path":"sprites/spr_wall/spr_wall.yy",
+    "name":"spr_arvore",
+    "path":"sprites/spr_arvore/spr_arvore.yy",
   },
   "spriteMaskId":null,
   "visible":true,
