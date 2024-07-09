@@ -17,3 +17,6 @@ sprite[1][3] = spr_player_walkingside
 
 movendo = 0
 lado = 0
+
+x = global.player_x
+y = global.player_y

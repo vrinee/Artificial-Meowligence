@@ -1,4 +1,14 @@
+if flash == true
+{
+gpu_set_fog(true, c_white, 0, 1000)
 draw_self()
+gpu_set_fog(false, c_white,0,1000)
+
+}
+else
+{
+draw_self()
+}
 
 
 draw_sprite(spr_lifebar_bg,0,healthbar_x,healthbar_y)

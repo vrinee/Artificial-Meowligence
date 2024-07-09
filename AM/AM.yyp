@@ -36,7 +36,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.0.157",
+    "IDEVersion":"2024.4.0.137",
   },
   "name":"AM",
   "resources":[
@@ -51,6 +51,8 @@
     {"id":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},},
     {"id":{"name":"obj_defense_btn","path":"objects/obj_defense_btn/obj_defense_btn.yy",},},
     {"id":{"name":"obj_dialogo","path":"objects/obj_dialogo/obj_dialogo.yy",},},
+    {"id":{"name":"obj_dmg_text","path":"objects/obj_dmg_text/obj_dmg_text.yy",},},
+    {"id":{"name":"obj_enemy_guy","path":"objects/obj_enemy_guy/obj_enemy_guy.yy",},},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
     {"id":{"name":"obj_npc01","path":"objects/obj_npc01/obj_npc01.yy",},},
     {"id":{"name":"obj_npc02","path":"objects/obj_npc02/obj_npc02.yy",},},
@@ -65,6 +67,8 @@
     {"id":{"name":"rm1","path":"rooms/rm1/rm1.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"background_combat","path":"sprites/background_combat/background_combat.yy",},},
+    {"id":{"name":"energia_02","path":"sprites/energia_02/energia_02.yy",},},
+    {"id":{"name":"game_over","path":"sprites/game_over/game_over.yy",},},
     {"id":{"name":"spr_arrow","path":"sprites/spr_arrow/spr_arrow.yy",},},
     {"id":{"name":"spr_arvore","path":"sprites/spr_arvore/spr_arvore.yy",},},
     {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},},

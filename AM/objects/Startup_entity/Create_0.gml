@@ -6,13 +6,20 @@ global.player_damage_mult = 1
 global.player_defense = 10
 global.player_defense_mult = 1
 global.player_active_defense = 0
+global.player_x = 160
+global.player_y = 192
 global.turn = 1
 global.enemy_max_hp = 100
 global.enemy_hp = 100
 global.enemy_attack = 20
 global.enemy_defense = 20
 global.enemy_active_defense = 0
-global.enemy = "placeholder"
+global.enemy_name = "placeholder"
+global.Croom = rm1
+global.enemys_won = [
+	["placeholder",0]
+]
+global.dmg = 0
 
 global.Enemy = function() constructor{
 name = "Default"
@@ -45,5 +52,9 @@ static SetDefense = function(_value) {
       defense = _value;
       return self;
    }
+   
 }
+
+global.enemies[enemy_types.Placeholder] = new global.Enemy()
+			.SetName("placeholder")
 
