@@ -36,7 +36,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.0.157",
+    "IDEVersion":"2024.4.0.137",
   },
   "name":"AM",
   "resources":[
@@ -79,11 +79,11 @@
     {"id":{"name":"spr_button_defense","path":"sprites/spr_button_defense/spr_button_defense.yy",},},
     {"id":{"name":"spr_cmbt_enemy_placeholder","path":"sprites/spr_cmbt_enemy_placeholder/spr_cmbt_enemy_placeholder.yy",},},
     {"id":{"name":"spr_cryingcat","path":"sprites/spr_cryingcat/spr_cryingcat.yy",},},
-    {"id":{"name":"spr_lifebar_bg","path":"sprites/spr_lifebar_bg/spr_lifebar_bg.yy",},},
-    {"id":{"name":"spr_lifebar_circuit","path":"sprites/spr_lifebar_circuit/spr_lifebar_circuit.yy",},},
     {"id":{"name":"spr_enemy_one","path":"sprites/spr_enemy_one/spr_enemy_one.yy",},},
     {"id":{"name":"spr_enemy_three","path":"sprites/spr_enemy_three/spr_enemy_three.yy",},},
     {"id":{"name":"spr_enemy_two","path":"sprites/spr_enemy_two/spr_enemy_two.yy",},},
+    {"id":{"name":"spr_lifebar_bg","path":"sprites/spr_lifebar_bg/spr_lifebar_bg.yy",},},
+    {"id":{"name":"spr_lifebar_circuit","path":"sprites/spr_lifebar_circuit/spr_lifebar_circuit.yy",},},
     {"id":{"name":"spr_lifebar_heart","path":"sprites/spr_lifebar_heart/spr_lifebar_heart.yy",},},
     {"id":{"name":"spr_lifebar_session_enemy","path":"sprites/spr_lifebar_session_enemy/spr_lifebar_session_enemy.yy",},},
     {"id":{"name":"spr_lifebar_session","path":"sprites/spr_lifebar_session/spr_lifebar_session.yy",},},

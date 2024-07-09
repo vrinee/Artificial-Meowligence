@@ -16,4 +16,3 @@ switch global.enemy_name{
 	break
 	
 }
-
