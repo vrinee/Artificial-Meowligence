@@ -25,8 +25,8 @@ global.Enemy = function() constructor{
 name = "Default"
 max_hp = 100
 sprite_index = spr_cmbt_enemy_placeholder
-atack = 20
-defense = 10
+atack = 30
+defense = 30
 
 static SetName = function(_value) {
       name = _value;

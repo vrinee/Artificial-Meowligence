@@ -6,16 +6,11 @@
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_51944D93","path":"rooms/Combate_WIP/Combate_WIP.yy",},
-    {"name":"inst_7446AF9F","path":"rooms/Combate_WIP/Combate_WIP.yy",},
-    {"name":"inst_4E3544B","path":"rooms/Combate_WIP/Combate_WIP.yy",},
-    {"name":"inst_5B19ECD6","path":"rooms/Combate_WIP/Combate_WIP.yy",},
     {"name":"inst_CD16A83","path":"rooms/Combate_WIP/Combate_WIP.yy",},
     {"name":"inst_51944D93","path":"rooms/Combate_WIP/Combate_WIP.yy",},
     {"name":"inst_7446AF9F","path":"rooms/Combate_WIP/Combate_WIP.yy",},
     {"name":"inst_4E3544B","path":"rooms/Combate_WIP/Combate_WIP.yy",},
     {"name":"inst_5B19ECD6","path":"rooms/Combate_WIP/Combate_WIP.yy",},
-    {"name":"inst_533B82CA","path":"rooms/Combate_WIP/Combate_WIP.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -24,11 +19,6 @@
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"","%Name":"inst_51944D93","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_51944D93","objectId":{"name":"Game_controller","path":"objects/Game_controller/Game_controller.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":640.0,"y":160.0,},
-        {"$GMRInstance":"","%Name":"inst_7446AF9F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7446AF9F","objectId":{"name":"obj_cmbt_player","path":"objects/obj_cmbt_player/obj_cmbt_player.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.0,"scaleY":5.0,"x":128.0,"y":224.0,},
-        {"$GMRInstance":"","%Name":"inst_4E3544B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4E3544B","objectId":{"name":"obj_attack_btn","path":"objects/obj_attack_btn/obj_attack_btn.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.0,"scaleY":3.0,"x":288.0,"y":256.0,},
-        {"$GMRInstance":"","%Name":"inst_5B19ECD6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5B19ECD6","objectId":{"name":"obj_defense_btn","path":"objects/obj_defense_btn/obj_defense_btn.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.0,"scaleY":3.0,"x":352.0,"y":192.0,},
-        {"$GMRInstance":"","%Name":"inst_51944D93","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_51944D93","objectId":{"name":"Game_controller","path":"objects/Game_controller/Game_controller.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":640.0,"y":160.0,},
-        {"$GMRInstance":"","%Name":"inst_533B82CA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_533B82CA","objectId":{"name":"Combat_controller","path":"objects/Combat_controller/Combat_controller.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":512.0,"y":256.0,},
         {"$GMRInstance":"","%Name":"inst_7446AF9F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7446AF9F","objectId":{"name":"obj_cmbt_player","path":"objects/obj_cmbt_player/obj_cmbt_player.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.0,"scaleY":5.0,"x":128.0,"y":224.0,},
         {"$GMRInstance":"","%Name":"inst_4E3544B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4E3544B","objectId":{"name":"obj_attack_btn","path":"objects/obj_attack_btn/obj_attack_btn.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.0,"scaleY":3.0,"x":288.0,"y":256.0,},
         {"$GMRInstance":"","%Name":"inst_5B19ECD6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5B19ECD6","objectId":{"name":"obj_defense_btn","path":"objects/obj_defense_btn/obj_defense_btn.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.0,"scaleY":3.0,"x":352.0,"y":192.0,},

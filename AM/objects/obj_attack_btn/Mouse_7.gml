@@ -7,7 +7,7 @@ if global.turn == 1 {
 		obj_enemy.flash = true
 		obj_enemy.alarm[0] = 5
 	}
-	global.turn = 0
+	global.turn = 1
 	global.enemy_active_defense = 0
 	global.energy -= 1
 }

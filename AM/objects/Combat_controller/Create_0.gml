@@ -4,7 +4,7 @@ enum enemy_types {
 	IA_tutorial
 }
 global.enemies = []
-
+global.turn = 1
 ended = 0
 
 switch global.enemy_name{

@@ -9,8 +9,8 @@ function scr_textos(){
 		case "Brian":
 			texto[0] = "Eu não sei mais oq escrever nesse texto"
 			texto[1] = "Ahhhhhhhh eu não aguento mais sa pora"
-			texto[2] = "Se vc ta lendo isso é pq eu escrevi"
-			texto[3] = "Oiioioioioio tudo bem com vc aiiiiiiiii?"
+			texto[2] = "brigadão mor e tu nem se fala veyrr"
+			texto[3] = "Odeio a é£çiä"
 		break;
 		
 		case "Enemy":

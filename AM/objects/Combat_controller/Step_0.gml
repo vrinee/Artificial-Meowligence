@@ -18,3 +18,11 @@ if global.enemy_hp <= 0 or global.player_hp <= 0 {
 	ended = 1
 }
 
+if global.turn{
+	if global.energy <= 0{
+		global.energy = global.max_energy
+		global.turn = 0
+	}
+} 
+
+
