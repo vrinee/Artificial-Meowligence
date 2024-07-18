@@ -1,9 +1,9 @@
 {
   "$GMSprite":"",
   "%Name":"spr_player_standing_frt",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":30,
-  "bbox_left":2,
+  "bbox_left":1,
   "bbox_right":29,
   "bbox_top":2,
   "collisionKind":1,
