@@ -1,15 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obl_coolisao01",
+  "%Name":"obj_predios",
   "eventList":[],
   "managed":true,
-  "name":"obl_coolisao01",
+  "name":"obj_predios",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_collision",
+    "path":"objects/obj_collision/obj_collision.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -28,9 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_colisao01",
-    "path":"sprites/spr_colisao01/spr_colisao01.yy",
+    "name":"spr_predios",
+    "path":"sprites/spr_predios/spr_predios.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
