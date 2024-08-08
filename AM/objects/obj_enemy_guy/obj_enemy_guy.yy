@@ -8,8 +8,8 @@
   "name":"obj_enemy_guy",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Leve01",
+    "path":"folders/Objects/Leve01.yy",
   },
   "parentObjectId":{
     "name":"obj_par_npcs",
