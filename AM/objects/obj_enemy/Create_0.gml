@@ -27,6 +27,7 @@ flash = false
 		global.player_hp += global.player_active_defense
 		global.dmg = global.player_active_defense
 		instance_create_layer(obj_cmbt_player.healthbar_x,obj_cmbt_player.healthbar_y,"Instances_1",obj_dmg_text)
+		instance_create_layer(obj_cmbt_player.x + obj_cmbt_player.sprite_width/2,obj_cmbt_player.y + obj_cmbt_player.sprite_height/2,"Instances_1",obj_enemy_slash)
 		obj_cmbt_player.flash = true
 		obj_cmbt_player.alarm[0] = 5
 		if global.player_hp < 0 {

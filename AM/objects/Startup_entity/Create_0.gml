@@ -23,7 +23,7 @@ global.dmg = 0
 
 global.Enemy = function() constructor{
 name = "Default"
-max_hp = 100
+max_hp = 200
 sprite_index = spr_cmbt_enemy_placeholder
 atack = 30
 defense = 30
