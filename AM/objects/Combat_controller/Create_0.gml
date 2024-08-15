@@ -5,6 +5,7 @@ enum enemy_types {
 }
 global.enemies = []
 global.turn = 1
+global.interactable = 1
 ended = 0
 
 switch global.enemy_name{
@@ -16,3 +17,5 @@ switch global.enemy_name{
 	break
 	
 }
+
+audio_play_sound(cmbt_snd,11,true)

@@ -3,7 +3,7 @@ global.player_max_hp = 100
 global.player_hp = global.player_max_hp
 global.player_damage = 20
 global.player_damage_mult = 1
-global.player_defense = 10
+global.player_defense = 7.5
 global.player_defense_mult = 1
 global.player_active_defense = 0
 global.player_x = 160
@@ -20,13 +20,17 @@ global.enemys_won = [
 	["placeholder",0]
 ]
 global.dmg = 0
+global.interactable = 1
+global.enemy_pattern = [0,0,1,0,1]
+global.pattern_index = 1
 
 global.Enemy = function() constructor{
 name = "Default"
-max_hp = 200
+max_hp = 300
 sprite_index = spr_cmbt_enemy_placeholder
 atack = 30
 defense = 30
+pattern = [0,0,1,0,1]
 
 static SetName = function(_value) {
       name = _value;
@@ -50,6 +54,11 @@ static SetAttack = function(_value) {
    
 static SetDefense = function(_value) {
       defense = _value;
+      return self;
+   }
+   
+static SetPattern = function(_value) {
+      pattern = _value;
       return self;
    }
    

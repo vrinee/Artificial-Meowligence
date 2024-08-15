@@ -1,5 +1,5 @@
 if global.enemy_hp <= 0 or global.player_hp <= 0 {
-	
+	global.interactable = 0
 	if global.enemy_hp == 0{
 		global.win_state = 1
 		for(var i = 0; i < array_length(global.enemys_won); i ++){
