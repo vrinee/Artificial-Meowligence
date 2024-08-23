@@ -17,5 +17,5 @@ switch global.enemy_name{
 	break
 	
 }
-
+audio_stop_all()
 audio_play_sound(cmbt_snd,11,true)

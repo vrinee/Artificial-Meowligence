@@ -1,5 +1,5 @@
 {
-  "$GMRoom":"v1",
+  "$GMRoom":"",
   "%Name":"Combate_WIP",
   "creationCodeFile":"",
   "inheritCode":false,
