@@ -1,11 +1,11 @@
 {
   "$GMSprite":"",
   "%Name":"spr_player_standing_bhd",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":30,
   "bbox_left":3,
   "bbox_right":29,
-  "bbox_top":2,
+  "bbox_top":1,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
