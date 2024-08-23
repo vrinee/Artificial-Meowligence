@@ -82,7 +82,6 @@
     {"id":{"name":"obl_coolisao01","path":"objects/obl_coolisao01/obl_coolisao01.yy",},},
     {"id":{"name":"Startup_entity","path":"objects/Startup_entity/Startup_entity.yy",},},
     {"id":{"name":"Combate_WIP","path":"rooms/Combate_WIP/Combate_WIP.yy",},},
-    {"id":{"name":"level01","path":"rooms/level01/level01.yy",},},
     {"id":{"name":"level02","path":"rooms/level02/level02.yy",},},
     {"id":{"name":"level03","path":"rooms/level03/level03.yy",},},
     {"id":{"name":"rm1","path":"rooms/rm1/rm1.yy",},},
@@ -157,7 +156,6 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"rm1","path":"rooms/rm1/rm1.yy",},},
     {"roomId":{"name":"Combate_WIP","path":"rooms/Combate_WIP/Combate_WIP.yy",},},
-    {"roomId":{"name":"level01","path":"rooms/level01/level01.yy",},},
     {"roomId":{"name":"level02","path":"rooms/level02/level02.yy",},},
     {"roomId":{"name":"level03","path":"rooms/level03/level03.yy",},},
   ],
