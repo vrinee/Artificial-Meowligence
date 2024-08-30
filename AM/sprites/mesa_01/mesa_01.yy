@@ -1,9 +1,9 @@
 {
   "$GMSprite":"",
   "%Name":"mesa_01",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":50,
-  "bbox_left":4,
+  "bbox_left":16,
   "bbox_right":63,
   "bbox_top":15,
   "collisionKind":1,

@@ -9,7 +9,10 @@
     "name":"Leve01",
     "path":"folders/Objects/Leve01.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_arvores_arbustos",
+    "path":"objects/obj_arvores_arbustos/obj_arvores_arbustos.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

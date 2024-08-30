@@ -73,6 +73,7 @@ if (distance_to_object(obj_par_npcs) <= 10) {
         var _npc = instance_nearest(x, y, obj_par_npcs);
         var _dialogo = instance_create_layer(x, y, "Dialogo", obj_dialogo);
         _dialogo.npc_nome = _npc.nome;
+		_dialogo.enemy_name = _npc.enemy;
         global.dialogo = true; // Ativar o estado de diálogo
     }
 }

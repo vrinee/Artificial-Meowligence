@@ -1,7 +1,7 @@
 {
   "$GMSprite":"",
   "%Name":"spr_banco_lado",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":79,
   "bbox_left":10,
   "bbox_right":26,

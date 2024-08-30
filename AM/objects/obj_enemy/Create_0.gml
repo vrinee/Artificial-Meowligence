@@ -2,6 +2,7 @@ global.enemy_max_hp = max_hp
 global.enemy_attack = atack
 global.enemy_defense = defense
 global.enemy_hp = global.enemy_max_hp
+global.enemy_pattern = pattern
 
 healthbar_width = 58*3
 healthbar_height = 27
@@ -49,4 +50,8 @@ global.enemy_pattern = pattern
 	}
 	
 	global.player_active_defense = 0
+ }
+ 
+ function enemy_drain() {
+	global.energy -= 1
  }

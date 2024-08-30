@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"spr_enemy_one",
   "bboxMode":0,
-  "bbox_bottom":30,
-  "bbox_left":1,
-  "bbox_right":26,
+  "bbox_bottom":154,
+  "bbox_left":5,
+  "bbox_right":134,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -18,7 +18,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":31,
+  "height":155,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"d5596e1b-4cc5-47ca-81c7-66b466aabb3e","blendMode":0,"displayName":"default","isLocked":false,"name":"d5596e1b-4cc5-47ca-81c7-66b466aabb3e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -94,5 +94,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":27,
+  "width":135,
 }

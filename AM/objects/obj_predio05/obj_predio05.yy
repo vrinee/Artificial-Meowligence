@@ -9,7 +9,10 @@
     "name":"Leve01",
     "path":"folders/Objects/Leve01.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_predios",
+    "path":"objects/obj_predios/obj_predios.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

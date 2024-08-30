@@ -64,6 +64,4 @@ static SetPattern = function(_value) {
    
 }
 
-global.enemies[enemy_types.Placeholder] = new global.Enemy()
-			.SetName("placeholder")
 

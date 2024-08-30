@@ -9,7 +9,10 @@
     "name":"Leve01",
     "path":"folders/Objects/Leve01.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"mesas_guardasol_poste",
+    "path":"objects/mesas_guardasol_poste/mesas_guardasol_poste.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

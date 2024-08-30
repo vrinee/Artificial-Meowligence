@@ -1,7 +1,7 @@
 velh = 0;
 velv = 0;
 dir = 0;
-velc = 3;
+velc = 6;
 
 //declarando maatriz de sprite
 

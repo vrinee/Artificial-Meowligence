@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Object27",
+  "%Name":"obj_chair_b_R",
   "eventList":[],
   "managed":true,
-  "name":"Object27",
+  "name":"obj_chair_b_R",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"bargames",
+    "path":"folders/Objects/bargames.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"cadeira_01_direita",
+    "path":"sprites/cadeira_01_direita/cadeira_01_direita.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

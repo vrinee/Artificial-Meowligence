@@ -1,8 +1,8 @@
-if (instance_exists(obj_player))
-{
+//stance_exists(obj_player)
+//{
 	alvo = obj_player
 	
-}
+//}
 
 // Seguir Player
 

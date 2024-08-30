@@ -1,4 +1,5 @@
 npc_nome = "";
+enemy_name = "";
 texto[0] = "";
 
 pagina = 0;
