@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_lifebar_circuit",
-    "path":"sprites/spr_lifebar_circuit/spr_lifebar_circuit.yy",
+    "name":"spr_enemy_two_small",
+    "path":"sprites/spr_enemy_two_small/spr_enemy_two_small.yy",
   },
   "spriteMaskId":null,
   "visible":true,

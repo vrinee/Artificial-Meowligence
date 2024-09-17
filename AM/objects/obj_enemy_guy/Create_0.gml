@@ -1,2 +1,2 @@
 nome = "Enemy"
-enemy = "enemy_one"
+enemy = "enemy_two"

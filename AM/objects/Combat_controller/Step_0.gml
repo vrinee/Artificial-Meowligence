@@ -7,14 +7,15 @@ if global.enemy_hp <= 0 or global.player_hp <= 0 {
 				global.enemys_won[i][1] = 1
 			}
 		}
-		if(keyboard_check_pressed(ord("G"))){
-			room_goto(global.Croom)
-		}
+		
 		
 	}else{
 		
 		global.win_state = 0
 	}
+	if(keyboard_check_pressed(ord("G"))){
+			room_goto(global.Croom)
+		}
 	ended = 1
 }
 

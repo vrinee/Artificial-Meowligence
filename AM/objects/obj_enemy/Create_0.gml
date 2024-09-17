@@ -54,4 +54,7 @@ global.enemy_pattern = pattern
  
  function enemy_drain() {
 	global.energy -= 1
+	instance_create_layer(106,20,"Instances_1",obj_drain_attack)
+	obj_cmbt_player.flash = true
+	obj_cmbt_player.alarm[0] = 5 
  }
