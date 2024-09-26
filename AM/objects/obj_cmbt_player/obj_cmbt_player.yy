@@ -12,8 +12,8 @@
   "name":"obj_cmbt_player",
   "overriddenProperties":[],
   "parent":{
-    "name":"personagens",
-    "path":"folders/Objects/personagens.yy",
+    "name":"prota",
+    "path":"folders/Objects/personagens/prota.yy",
   },
   "parentObjectId":null,
   "persistent":false,

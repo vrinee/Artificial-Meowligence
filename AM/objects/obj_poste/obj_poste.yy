@@ -6,8 +6,8 @@
   "name":"obj_poste",
   "overriddenProperties":[],
   "parent":{
-    "name":"Leve01",
-    "path":"folders/Objects/Leve01.yy",
+    "name":"obj_cenario",
+    "path":"folders/Objects/Leve01/obj_cenario.yy",
   },
   "parentObjectId":{
     "name":"mesas_guardasol_poste",

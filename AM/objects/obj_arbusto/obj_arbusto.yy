@@ -6,8 +6,8 @@
   "name":"obj_arbusto",
   "overriddenProperties":[],
   "parent":{
-    "name":"Leve01",
-    "path":"folders/Objects/Leve01.yy",
+    "name":"arvores",
+    "path":"folders/Objects/Leve01/arvores.yy",
   },
   "parentObjectId":{
     "name":"obj_arvores_arbustos",

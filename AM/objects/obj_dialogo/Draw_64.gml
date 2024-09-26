@@ -13,6 +13,7 @@ var _yy = _gui_height - _desired_height - 5;
 // Definir a cor do retângulo
 var _color = c_black;
 
+if(inicializar){
 var _texto = string_copy(texto[pagina], 0, caractere);
 
 draw_set_font(fnt_dialogo);
@@ -20,3 +21,4 @@ draw_set_font(fnt_dialogo);
 // Desenhar o retângulo
 draw_rectangle_color(_xx, _yy, _xx + _desired_width, _yy + _desired_height, _color, _color, _color, _color, false);
 draw_text_ext(_xx + 5, _yy + 5, _texto, 20, 300);
+}

@@ -9,8 +9,8 @@
   "name":"obj_player_slash",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Sistema de Turno",
+    "path":"folders/Objects/Sistema de Turno.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -6,8 +6,8 @@
   "name":"obj_arvores_arbustos",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"objetos Pai",
+    "path":"folders/Objects/objetos Pai.yy",
   },
   "parentObjectId":{
     "name":"obj_collision",

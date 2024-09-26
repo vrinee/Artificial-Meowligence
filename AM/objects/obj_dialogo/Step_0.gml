@@ -1,5 +1,5 @@
 if (!inicializar) {
-    scr_textos();
+scr_textos();    
     inicializar = true;
 }
 

@@ -6,10 +6,13 @@
   "name":"obj_predio06",
   "overriddenProperties":[],
   "parent":{
-    "name":"Leve01",
-    "path":"folders/Objects/Leve01.yy",
+    "name":"predios",
+    "path":"folders/Objects/Leve01/predios.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_collision_predios",
+    "path":"objects/obj_collision_predios/obj_collision_predios.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

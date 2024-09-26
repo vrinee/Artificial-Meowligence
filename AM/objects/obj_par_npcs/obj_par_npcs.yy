@@ -6,8 +6,8 @@
   "name":"obj_par_npcs",
   "overriddenProperties":[],
   "parent":{
-    "name":"personagens",
-    "path":"folders/Objects/personagens.yy",
+    "name":"objetos Pai",
+    "path":"folders/Objects/objetos Pai.yy",
   },
   "parentObjectId":{
     "name":"obj_collision",

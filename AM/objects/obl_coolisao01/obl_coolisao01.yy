@@ -6,8 +6,8 @@
   "name":"obl_coolisao01",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Sistema de Turno",
+    "path":"folders/Objects/Sistema de Turno.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_colisao01",
-    "path":"sprites/spr_colisao01/spr_colisao01.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":false,
 }

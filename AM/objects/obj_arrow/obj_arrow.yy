@@ -9,14 +9,14 @@
   "name":"obj_arrow",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"controladorres",
+    "path":"folders/Objects/controladorres.yy",
   },
   "parentObjectId":{
     "name":"obj_collision",
     "path":"objects/obj_collision/obj_collision.yy",
   },
-  "persistent":true,
+  "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -32,8 +32,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
-  "spriteId":null,
+  "solid":true,
+  "spriteId":{
+    "name":"spr_ceta_barGames",
+    "path":"sprites/spr_ceta_barGames/spr_ceta_barGames.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

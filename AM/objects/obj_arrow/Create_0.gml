@@ -1,2 +1,4 @@
-nome = "Passar"
+nome = "arrow"
 enemy = ""
+
+var complete = 6

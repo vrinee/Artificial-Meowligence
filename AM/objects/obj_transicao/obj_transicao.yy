@@ -6,8 +6,8 @@
   "name":"obj_transicao",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"controladorres",
+    "path":"folders/Objects/controladorres.yy",
   },
   "parentObjectId":null,
   "persistent":true,

@@ -70,6 +70,8 @@ if (!global.dialogo) {
 // Diálogo
 if (distance_to_object(obj_par_npcs) <= 10) {
     if (keyboard_check_pressed(ord("F")) && !global.dialogo) {
+		global.player_x = obj_player.x
+		global.player_y = obj_player.y
         var _npc = instance_nearest(x, y, obj_par_npcs);
         var _dialogo = instance_create_layer(x, y, "Dialogo", obj_dialogo);
         _dialogo.npc_nome = _npc.nome;

@@ -1,7 +1,7 @@
 global.enemy_index = 0
 global.player_max_hp = 100
 global.player_hp = global.player_max_hp
-global.player_damage = 20
+global.player_damage = 200
 global.player_damage_mult = 1
 global.player_defense = 7.5
 global.player_defense_mult = 1
@@ -17,7 +17,15 @@ global.enemy_active_defense = 0
 global.enemy_name = "placeholder"
 global.Croom = rm1
 global.enemys_won = [
-	["placeholder",0]
+	["placeholder",0],
+	["enemy_one",0],
+	["enemy_two",0],
+	["enemy_three",0],
+	["enemy_four",0],
+	["enemy_five",0],
+	["enemy_six",0],
+	
+	
 ]
 global.dmg = 0
 global.interactable = 1
