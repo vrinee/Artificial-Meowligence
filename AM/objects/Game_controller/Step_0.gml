@@ -46,6 +46,10 @@ if instance_exists(obj_dialogo) {
 	global.dialog = true;
 }
 
+if(keyboard_check(vk_multiply)){
+	room_goto(rm1)
+}
+
 
 
 

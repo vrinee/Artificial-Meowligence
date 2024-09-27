@@ -192,6 +192,7 @@
     {"id":{"name":"obj_sinuca","path":"objects/obj_sinuca/obj_sinuca.yy",},},
     {"id":{"name":"obj_spike","path":"objects/obj_spike/obj_spike.yy",},},
     {"id":{"name":"obj_transicao","path":"objects/obj_transicao/obj_transicao.yy",},},
+    {"id":{"name":"obj_tuto","path":"objects/obj_tuto/obj_tuto.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"obl_coolisao01","path":"objects/obl_coolisao01/obl_coolisao01.yy",},},
     {"id":{"name":"spr_npc0403","path":"objects/spr_npc0403/spr_npc0403.yy",},},

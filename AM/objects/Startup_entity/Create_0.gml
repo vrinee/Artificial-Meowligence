@@ -38,6 +38,8 @@ global.interactable = 1
 global.enemy_pattern = [0,0,1,0,1]
 global.pattern_index = 1
 
+global.star = true
+
 global.Enemy = function() constructor{
 name = "Default"
 max_hp = 300

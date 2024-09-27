@@ -20,6 +20,6 @@ draw_set_font(fnt_dialogo);
 
 // Desenhar o retângulo
 //draw_rectangle_color(_xx, _yy, _xx + _desired_width, _yy + _desired_height, _color, _color, _color, _color, false);
-draw_sprite(spr_chatbox,0,_xx,_yy)
-draw_text_ext(_xx + 5, _yy + 5, _texto, 20, 300);
+draw_sprite(spr_chatbox,anim,_xx,_yy)
+draw_text_ext(_xx + 5, _yy + 5, _texto, 20, 280);
 }

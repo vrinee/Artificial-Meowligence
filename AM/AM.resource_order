@@ -148,6 +148,7 @@
     {"name":"obj_sinuca","order":4,"path":"objects/obj_sinuca/obj_sinuca.yy",},
     {"name":"obj_spike","order":3,"path":"objects/obj_spike/obj_spike.yy",},
     {"name":"obj_transicao","order":4,"path":"objects/obj_transicao/obj_transicao.yy",},
+    {"name":"obj_tuto","order":9,"path":"objects/obj_tuto/obj_tuto.yy",},
     {"name":"obj_wall","order":5,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"obl_coolisao01","order":10,"path":"objects/obl_coolisao01/obl_coolisao01.yy",},
     {"name":"spr_npc0403","order":2,"path":"objects/spr_npc0403/spr_npc0403.yy",},

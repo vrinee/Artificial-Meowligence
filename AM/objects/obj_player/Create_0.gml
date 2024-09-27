@@ -22,3 +22,7 @@ x = global.player_x
 y = global.player_y
 
 canPlay = true
+if(global.star == true){
+	global.star = false
+	instance_create_layer(480/2,360/2,"Dialogo",obj_tuto)
+}
