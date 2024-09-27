@@ -223,6 +223,7 @@
     {"name":"spr_frued","order":4,"path":"sprites/spr_frued/spr_frued.yy",},
     {"name":"spr_fundo02","order":17,"path":"sprites/spr_fundo02/spr_fundo02.yy",},
     {"name":"spr_gameover","order":23,"path":"sprites/spr_gameover/spr_gameover.yy",},
+    {"name":"spr_gamewon","order":25,"path":"sprites/spr_gamewon/spr_gamewon.yy",},
     {"name":"spr_gatos","order":16,"path":"sprites/spr_gatos/spr_gatos.yy",},
     {"name":"spr_jeff","order":2,"path":"sprites/spr_jeff/spr_jeff.yy",},
     {"name":"spr_ladinho","order":2,"path":"sprites/spr_ladinho/spr_ladinho.yy",},

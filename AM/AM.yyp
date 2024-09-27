@@ -280,6 +280,7 @@
     {"id":{"name":"spr_frued","path":"sprites/spr_frued/spr_frued.yy",},},
     {"id":{"name":"spr_fundo02","path":"sprites/spr_fundo02/spr_fundo02.yy",},},
     {"id":{"name":"spr_gameover","path":"sprites/spr_gameover/spr_gameover.yy",},},
+    {"id":{"name":"spr_gamewon","path":"sprites/spr_gamewon/spr_gamewon.yy",},},
     {"id":{"name":"spr_gatos","path":"sprites/spr_gatos/spr_gatos.yy",},},
     {"id":{"name":"spr_jeff","path":"sprites/spr_jeff/spr_jeff.yy",},},
     {"id":{"name":"spr_ladinho","path":"sprites/spr_ladinho/spr_ladinho.yy",},},
