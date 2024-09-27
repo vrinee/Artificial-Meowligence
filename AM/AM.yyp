@@ -263,6 +263,7 @@
     {"id":{"name":"spr_chao_boss","path":"sprites/spr_chao_boss/spr_chao_boss.yy",},},
     {"id":{"name":"spr_chao_lab","path":"sprites/spr_chao_lab/spr_chao_lab.yy",},},
     {"id":{"name":"spr_chao","path":"sprites/spr_chao/spr_chao.yy",},},
+    {"id":{"name":"spr_chatbox","path":"sprites/spr_chatbox/spr_chatbox.yy",},},
     {"id":{"name":"spr_cmbt_enemy_placeholder","path":"sprites/spr_cmbt_enemy_placeholder/spr_cmbt_enemy_placeholder.yy",},},
     {"id":{"name":"spr_colisao_level02","path":"sprites/spr_colisao_level02/spr_colisao_level02.yy",},},
     {"id":{"name":"spr_cryingcat","path":"sprites/spr_cryingcat/spr_cryingcat.yy",},},

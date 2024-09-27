@@ -208,6 +208,7 @@
     {"name":"spr_ceta_barGames","order":18,"path":"sprites/spr_ceta_barGames/spr_ceta_barGames.yy",},
     {"name":"spr_chao_lab","order":5,"path":"sprites/spr_chao_lab/spr_chao_lab.yy",},
     {"name":"spr_chao","order":3,"path":"sprites/spr_chao/spr_chao.yy",},
+    {"name":"spr_chatbox","order":24,"path":"sprites/spr_chatbox/spr_chatbox.yy",},
     {"name":"spr_cmbt_enemy_placeholder","order":8,"path":"sprites/spr_cmbt_enemy_placeholder/spr_cmbt_enemy_placeholder.yy",},
     {"name":"spr_colisao_level02","order":19,"path":"sprites/spr_colisao_level02/spr_colisao_level02.yy",},
     {"name":"spr_cryingcat","order":1,"path":"sprites/spr_cryingcat/spr_cryingcat.yy",},
