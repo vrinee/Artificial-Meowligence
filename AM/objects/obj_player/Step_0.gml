@@ -49,6 +49,12 @@ if (!global.dialogo) {
     // animações do player
     if (velh != 0 or velv != 0) {
         movendo = 1;
+		if(canPlay){
+			audio_play_sound(step_snd,0,false)
+			canPlay = false
+			alarm[0] = 30
+		}
+		
     } else {
         movendo = 0;
     }

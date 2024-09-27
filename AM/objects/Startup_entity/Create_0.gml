@@ -1,7 +1,7 @@
 global.enemy_index = 0
 global.player_max_hp = 100
 global.player_hp = global.player_max_hp
-global.player_damage = 200
+global.player_damage = 20
 global.player_damage_mult = 1
 global.player_defense = 7.5
 global.player_defense_mult = 1
@@ -24,7 +24,13 @@ global.enemys_won = [
 	["enemy_four",0],
 	["enemy_five",0],
 	["enemy_six",0],
-	
+	["enemy_seven",0],
+	["enemy_eight",0],
+	["enemy_nine",0],
+	["enemy_ten",0],
+	["enemy_eleven",0],
+	["enemy_twelve",0],
+	["BOSS",0]
 	
 ]
 global.dmg = 0

@@ -1,4 +1,4 @@
 nome = "arrow"
 enemy = ""
 
-var complete = 6
+var complete = 0

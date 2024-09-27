@@ -56,5 +56,8 @@ global.enemy_pattern = pattern
 	global.energy -= 1
 	instance_create_layer(106,20,"Instances_1",obj_drain_attack)
 	obj_cmbt_player.flash = true
-	obj_cmbt_player.alarm[0] = 5 
+	obj_cmbt_player.alarm[0] = 5
+	audio_play_sound(drain_snd,0,false)
  }
+ 
+

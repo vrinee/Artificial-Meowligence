@@ -60,9 +60,43 @@ function scr_textos(){
 		texto[1] = "Imagine um mundo onde não cometemos erros por descuido"
 		texto[2] = "As IAs podem proporcionar isso e muito mais"
 		break;
-
-
-
+		
+		case "bar":
+		texto[0] = "Vejo que consegui chegar até aqui"
+		texto[1] = "Ainda temos muito mais IAs para derrotar"
+		texto[2] = "Siga em frente para o laboratorio de onde elas vieram"
+		break;
+		
+		case "recepcionista": 
+        texto[0] = "Você veio visitar o laboratório?" 
+        texto[1] = "É só subir o elevador que você chega lá."           
+        break;
+		
+		case "cientista1": 
+        texto[0] = "É importante lembrar que a IA não pensa como a gente" 
+        texto[1] = "Ela só processa informações e encontra padrões de forma eficiente"           
+        break;
+		
+		case "cientista2":
+        texto[0] = "Estamos em um ponto crucial da evolução das IAs."
+        texto[1] = "O nível de autonomia que conseguimos alcançar nas últimas semanas é impressionante."
+        texto[2] = "mas ainda há questões éticas que precisamos considerar."
+        break;
+		
+		case "cientista3":
+        texto[0] = "Sim, autonomia é uma faca de dois gumes. "
+        texto[1] = "Quanto mais inteligência damos, mais precisamos garantir que esses sistemas entendam limites."
+        texto[2] = "Já passamos dos algoritmos que apenas seguem ordens... Agora eles aprendem, tomam decisões."
+        break;
+		
+		case "cientista4":
+        texto[0] = " A nossa preocupação maior não é mais só sobre o que eles podem fazer, mas como vão interpretar o que pedimos."
+        texto[1] = "A complexidade da linguagem é algo que as máquinas ainda não dominam completamente, mesmo que os avanços sejam gigantescos."
+        break;
+		
+		case "arrow":
+		texto[0] = enemy_name
+		break;
 
 		
 		case "Enemy":
@@ -72,6 +106,12 @@ function scr_textos(){
 					dert = 1;
 				}
 				
+			}
+			if(dert and enemy_name == "BOSS"){
+				texto[0] = "Fui derrotado XD"
+				texto[1] = "Isso não estava nos meus calculos >:("
+				texto[2] = "Razao para existir falhada T_T"
+				break
 			}
 			if(dert){
 				texto[0] = "Tu me ganhou D::"
@@ -102,5 +142,8 @@ function scr_textos(){
 					break
 			}
 				//room_goto_next();
+		break;
+		default:
+			texto[0] = "..."
 	}
 }

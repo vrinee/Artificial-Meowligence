@@ -1,7 +1,7 @@
 velh = 0;
 velv = 0;
 dir = 0;
-velc =7;
+velc =2;
 
 //declarando maatriz de sprite
 
@@ -20,3 +20,5 @@ lado = 0
 
 x = global.player_x
 y = global.player_y
+
+canPlay = true

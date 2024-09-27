@@ -7,11 +7,17 @@ if global.enemy_hp <= 0 or global.player_hp <= 0 {
 				global.enemys_won[i][1] = 1
 			}
 		}
-		
-		
+		if(gameOverSound){
+			audio_play_sound(yay_snd,0,false)
+			gameOverSound = false
+		}
 	}else{
 		
 		global.win_state = 0
+		if(gameOverSound){
+			audio_play_sound(perdeu_snd,0,false)
+			gameOverSound = false
+		}
 	}
 	if(keyboard_check_pressed(ord("G"))){
 			room_goto(global.Croom)
@@ -25,5 +31,7 @@ if global.turn{
 		global.turn = 0
 	}
 } 
+
+
 
 

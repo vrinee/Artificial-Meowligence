@@ -26,13 +26,15 @@ else{
 }
 
 
-if (keyboard_check_released(vk_enter)){
-	room_goto(Combate_WIP)
-	}
+//if (keyboard_check_released(vk_enter)){
+//	room_goto(Combate_WIP)
+//	}
 
-if (keyboard_check_released(vk_divide)){
-	room_goto(level01)
-	}
+//if (keyboard_check_released(vk_divide)){
+//	room_goto(level07)
+//	global.player_x = 50
+//	global.player_y = 90
+//	}
 
 if (room != Combate_WIP){
 	draw_set_halign(fa_left)
